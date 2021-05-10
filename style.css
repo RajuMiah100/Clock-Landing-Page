@@ -77,14 +77,14 @@ button{
 }
 
 .card  {
-    width: 150px;
-    height: 180px;
+    width: 180px;
+    height: 200px;
     display: inline-block;
     border-radius: 10px;
     padding: 15px 25px;
     box-sizing: border-box;
     cursor: pointer;
-    margin: 2px 15px;
+    margin: 5px 15px;
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -115,13 +115,13 @@ button{
 h5{
     color:blue;
     text-shadow: 0 0 5px #999;
-    font-size: 15px;
+    font-size: 20px;
 
 }
 
 .card p{
     text-shadow: 0 0 15px #000;
-    font-size: 12px;
+    font-size: 15px;
     color: yellow;
 }
 
